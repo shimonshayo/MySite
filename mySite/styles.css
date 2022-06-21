@@ -1,0 +1,69 @@
+body {
+background-color:rgb(212, 252, 248);
+text-align: center;
+}
+
+
+h1 {
+  margin: -5% ;
+  font-size: 100px;
+  font-family: 'Sacramento', cursive;
+  color: red;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: normal;
+}
+
+h3{
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+}
+
+
+.inner-container {
+  width: 1000px;
+  position: relative;
+  padding-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-container {
+  width: 100%;
+  height: 220px;
+  display: block;
+}
+
+.middle-container {
+  padding-top: 38px;
+}
+
+.bottom-container {
+  padding: 20px;
+}
+
+
+
+.prop-row {
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 1.8;
+}
+
+
+.footer-link {
+  margin: 20px;
+  color: #0011fd;
+}
+
+
+
+.rights {
+  color: #f80000;
+  font: size 15px;;
+  margin: 30px auto 2px;
+}
